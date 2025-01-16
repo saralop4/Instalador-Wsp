@@ -1,6 +1,9 @@
-<h1 align="center">🚀 Instalador de Wsp Sas</h1>
+<div align="center">
+<h1>🚀 Instalador de Wsp Sas</h1>
 <img src="https://www.gestionyventa.com/wp-content/uploads/2023/03/crm2.png" />
-<h1 align="center">Un sistema de tickets muy completo basado en mensajes de WhatsApp.</h1> 
+<h1>Un sistema de tickets muy completo basado en mensajes de WhatsApp.</h1> 
+</div>
+
 
 
 ## Vamos a instalar?
