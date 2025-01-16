@@ -24,7 +24,7 @@ cd && cd ./install && sudo ./install_instancia
 
 una VPS Ubuntu 20.04 (Configuración recomendada: 3 VCPU's + 4 GB RAM)
 
-Subdominio para Frontend - [tu-frontend]
+Dominio principal o Subdominio para Frontend - [tu-frontend]
 
 Subdominio para API Backend
 
