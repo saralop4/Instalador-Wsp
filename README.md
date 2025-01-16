@@ -1,54 +1,38 @@
-<h1 align="center">🚀 Canal Vem Fazer</h1>
-<img src="https://imgur.com/N9LGCka.gif" />
-<h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
+<h1 align="center">🚀 Instalador de Wsp Sas</h1>
+<img src="https://www.gestionyventa.com/wp-content/uploads/2023/03/crm2.png" />
+<h1 align="center">Un sistema de tickets muy completo basado en mensajes de WhatsApp.</h1> 
 
 
-## Vamos instalar?
+## Vamos a instalar?
 
-FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
+DESCARGAR EL INSTALADOR E INICIAR LA PRIMERA INSTALACIÓN (UTILIZAR SÓLO PARA LA PRIMERA INSTALACIÓN):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/canalvemfazer/instalador install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/saralop4/Instalador-Wsp install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
-ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
+ACCEDER AL DIRECTORIO DEL INSTALADOR E INICIAR INSTALACIONES ADICIONALES (UTILICE ESTE COMANDO PARA LA SEGUNDA O MÁS INSTALACIONES:
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
 
 
-## Para Instalação você precisa:
+## Para la instalación necesitas:
 
-Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
+una VPS Ubuntu 20.04 (Configuración recomendada: 3 VCPU's + 4 GB RAM)
 
-Subdominio para Frontend - Seu frontend
+Subdominio para Frontend - [tu-frontend]
 
-Subdominio para API -Seu backend
+Subdominio para API Backend
 
-Email válido para certificação SSL
+Correo electrónico válido para la certificación SSL
 
-## Consultoria e contato:
+## Consultoría y contacto:
 
-    CANAL VEM FAZER LTDA
+    Wsp-Sas
 
-    Fone: 81 99627-7285(WhatsApp)
+    Telefono: xx-xxx-xxx(WhatsApp)
 
-
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
-
-
-  <div align="center">
-    <h3>Ajude com qualquer valor</h3>
-  <a href="https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR" target="_blank" rel="noopener noreferrer">
-    <img src="https://imgur.com/CQPHUBB.gif" style="width: 50% !important;">
-  </a>
-</div>
-
-Copia e cola:
-
-    00020126360014BR.GOV.BCB.PIX0114+55819962772855204000053039865802BR5924Raphael Batista da silva6009SAO PAULO610805409000622305190WFy6iqYAgBMQNdtcgc630407B3
-    
 
 
 
